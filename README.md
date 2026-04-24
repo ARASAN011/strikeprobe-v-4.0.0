@@ -27,7 +27,7 @@ Clone the repository and install the required dependencies:
 
 ```bash
 # Clone the repo
-git clone [https://github.com/ARASAN011/strikeprobe-v-4.0.0.git](https://github.com/ARASAN011/strikeprobe-v-4.0.0.git)
+git clone https://github.com/ARASAN011/strikeprobe-v-4.0.0.git
 cd strikeprobe-v-4.0.0
 
 # Install dependencies
