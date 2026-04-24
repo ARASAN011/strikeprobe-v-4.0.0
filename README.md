@@ -26,9 +26,8 @@ StrikeProbe automates the heavy lifting. It acts as an automated Red Team, allow
 Clone the repository and install the required dependencies:
 
 ```bash
-# Clone the repo
-git clone [https://github.com/ARASAN011/StrikeProbe.git](https://github.com/ARASAN011/StrikeProbe.git)
+git clone https://github.com/ARASAN011/StrikeProbe.git](https://github.com/ARASAN011/StrikeProbe.git)
 cd StrikeProbe
 
 # Install dependencies
-pip3 install requests beautifulsoup4
+# pip3 install requests beautifulsoup4
